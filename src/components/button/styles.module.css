@@ -1,0 +1,11 @@
+.buttonStyle {
+  background-color: aqua;
+  border: none;
+  width: 100px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.buttonStyle:hover {
+  background-color: rgb(26, 90, 90);
+}
